@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-with-javascript---5td9IHs1)
 - Live Site URL: [Live site URL here](https://darhniel.github.io/interactive-rating-component-main/)
 
 ## My process
